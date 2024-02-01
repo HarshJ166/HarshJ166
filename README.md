@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jajalharsh268@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TCIPXJrC8RBZYdvSHjfyoWW91X1q_Is_/view?usp=sharing](https://drive.google.com/file/d/1TCIPXJrC8RBZYdvSHjfyoWW91X1q_Is_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Cwfc4cPux6cxfcRV1MSo__nj_ohs4NSB/view?usp=drive_link](https://drive.google.com/file/d/1Cwfc4cPux6cxfcRV1MSo__nj_ohs4NSB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
