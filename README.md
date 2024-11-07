@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jajalharsh268@gmail.com**
 
-- 📄 Know about my experiences [Harsh's Resume](https://drive.google.com/file/d/1yLFo4xY0kb320EDw-KjLXs-x0hvZBwuT/view?usp=drive_link)
+- 📄 Know about my experiences [Harsh's Resume](https://harsh-terminal.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
