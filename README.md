@@ -17,7 +17,7 @@ Software engineer who likes owning things end-to-end — from a Solidity contrac
 <h2>🛠️ Languages · Frameworks · Tools 🛠️</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,java,solidity,golang,py,react,nextjs,nodejs,express,electron,tailwind,bootstrap,mongodb,postgres,prisma,appwrite,vercel,netlify,aws,azure,gcp,kafka,git,github,postman&theme=dark&perline=10"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cjava%2Csolidity%2Cgolang%2Cpy%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Celectron%2Ctailwind%2Cbootstrap%2Cmongodb%2Cpostgres%2Cprisma%2Cappwrite%2Cvercel%2Cnetlify%2Caws%2Cazure%2Cgcp%2Ckafka%2Cgit%2Cgithub%2Cpostman&theme=dark&perline=10"/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,solidity,golang,py,react,nextjs,nodejs,express,electron,tailwind,bootstrap,mongodb,postgres,prisma,appwrite,vercel,netlify,aws,azure,gcp,kafka,git,github,postman&theme=light&perline=10" alt="Languages, Frameworks & Tools"/>
 </picture>
 
