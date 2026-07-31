@@ -8,13 +8,19 @@
 
 <br>
 
-### Now
+### 🎯 Now
 
 Software engineer who likes owning things end-to-end — from a Solidity contract to the React app that talks to it. Currently building distributed, event-driven systems (Go, Kafka, Auth0) for a legal-tech platform. Before that: an invoicing suite, an on-chain certificate registry, and a computer-vision pipeline during an internship at Intel.
 
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarshJ166&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false" alt="GitHub stats" height="165"/>
+
+</div>
+
 ---
 
-### Selected Work
+### 🚀 Selected Work
 
 | | |
 |:---|:---|
@@ -24,7 +30,7 @@ Software engineer who likes owning things end-to-end — from a Solidity contrac
 
 ---
 
-### Toolbox
+### 🛠️ Toolbox
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,solidity,golang,react,nextjs,nodejs,express,tailwind,mongodb,prisma,aws,kafka,git,github&theme=dark&perline=8"/>
@@ -33,7 +39,7 @@ Software engineer who likes owning things end-to-end — from a Solidity contrac
 
 ---
 
-### Elsewhere
+### 🔗 Elsewhere
 
 <p>
 <a href="mailto:jajalharsh268@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
