@@ -6,63 +6,38 @@
 
 </div>
 
-### About
+<br>
 
-- 🔭 Currently building a production legal-tech platform — distributed microservices, LLM agents, and event-driven architecture
-- 🧩 Recently shipped an on-chain certificate issuance & verification dApp, and a full-stack invoicing suite
-- 🔍 Previously worked on computer vision / object detection during an internship at Intel
-- 📫 Reach me at **jajalharsh268@gmail.com**
+### Now
 
-### 🚀 Featured Projects
+Software engineer who likes owning things end-to-end — from a Solidity contract to the React app that talks to it. Currently building distributed, event-driven systems (Go, Kafka, Auth0) for a legal-tech platform. Before that: an invoicing suite, an on-chain certificate registry, and a computer-vision pipeline during an internship at Intel.
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**invomax**](https://github.com/HarshJ166/invomax) | Full-stack invoicing suite — tax calculator, number-to-words conversion, PDF invoice generation | Next.js · Node.js · Prisma |
-| [**willdcalm**](https://github.com/HarshJ166/willdcalm) | Client marketing site — 14 hand-built sections with smooth & horizontal-scroll interactions | Next.js · Tailwind CSS |
-| [**BlockChain_Certificate_App**](https://github.com/HarshJ166/BlockChain_Certificate_App) | On-chain certificate issuance & verification dApp — Solidity contract, issuer and verifier panels | Solidity · Web3.js · React |
-| [**GoodGrocery**](https://github.com/HarshJ166/GoodGrocery) | MERN grocery platform with a content-based product recommender | MongoDB · Express · React · Python |
-| [**Intel_VMA**](https://github.com/HarshJ166/Intel_VMA) | Object detection model and training pipeline built during an Intel internship | Python · YOLO / Ultralytics |
-| [**scalesecure_pvt**](https://github.com/HarshJ166/scalesecure_pvt) | Marketing site for a security consultancy client | React · Tailwind CSS |
+---
 
-### 🛠️ Tech Stack
+### Selected Work
 
-**Languages**
+| | |
+|:---|:---|
+| **[invomax](https://github.com/HarshJ166/invomax)**<br>Full-stack invoicing suite — tax calculator, number-to-words conversion, PDF invoice generation.<br><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,nodejs,prisma&theme=dark"/><img src="https://skillicons.dev/icons?i=nextjs,nodejs,prisma&theme=light" height="24" alt="Next.js, Node.js, Prisma"/></picture> | **[willdcalm](https://github.com/HarshJ166/willdcalm)**<br>Client marketing site — 14 hand-built sections, smooth & horizontal-scroll interactions.<br><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,tailwind&theme=dark"/><img src="https://skillicons.dev/icons?i=nextjs,tailwind&theme=light" height="24" alt="Next.js, Tailwind CSS"/></picture> |
+| **[BlockChain_Certificate_App](https://github.com/HarshJ166/BlockChain_Certificate_App)**<br>On-chain certificate issuance & verification dApp — deployed Solidity contract, issuer & verifier panels.<br><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=solidity,react&theme=dark"/><img src="https://skillicons.dev/icons?i=solidity,react&theme=light" height="24" alt="Solidity, React"/></picture> | **[GoodGrocery](https://github.com/HarshJ166/GoodGrocery)**<br>MERN grocery platform with a content-based product recommender.<br><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,express,mongodb,py&theme=dark"/><img src="https://skillicons.dev/icons?i=react,express,mongodb,py&theme=light" height="24" alt="React, Express, MongoDB, Python"/></picture> |
+| **[Intel_VMA](https://github.com/HarshJ166/Intel_VMA)**<br>Object detection model & training pipeline, built during an internship at Intel.<br><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py&theme=dark"/><img src="https://skillicons.dev/icons?i=py&theme=light" height="24" alt="Python"/></picture> | **[scalesecure_pvt](https://github.com/HarshJ166/scalesecure_pvt)**<br>Marketing site for a security consultancy client.<br><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,tailwind&theme=dark"/><img src="https://skillicons.dev/icons?i=react,tailwind&theme=light" height="24" alt="React, Tailwind CSS"/></picture> |
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+---
 
-**Frameworks & Libraries**
+### Toolbox
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,solidity,golang,react,nextjs,nodejs,express,tailwind,mongodb,prisma,aws,kafka,git,github&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,solidity,golang,react,nextjs,nodejs,express,tailwind,mongodb,prisma,aws,kafka,git,github&theme=light&perline=8" alt="Tech stack"/>
+</picture>
 
-**Databases & ORM**
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+### Elsewhere
 
-**Cloud & Infra**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Connect
-
-<p align="left">
-<a href="mailto:jajalharsh268@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/harsh-jajal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/harsh_2608/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://harsh-terminal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<p>
+<a href="mailto:jajalharsh268@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://linkedin.com/in/harsh-jajal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://leetcode.com/harsh_2608/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://harsh-terminal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF" /></a>
 </p>
