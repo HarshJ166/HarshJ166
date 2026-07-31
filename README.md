@@ -10,24 +10,16 @@
 
 Software engineer who likes owning things end-to-end — from a Solidity contract to the React app that talks to it. Currently building distributed, event-driven systems (Go, Kafka, Auth0) for a legal-tech platform. Before that: an invoicing suite, an on-chain certificate registry, and a computer-vision pipeline during an internship at Intel.
 
-<div align="center">
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarshJ166&show_icons=true&hide_border=true&bg_color=1A1918&title_color=D97757&icon_color=D97757&text_color=ABA69E&hide_rank=false&hide=stars,contribs" alt="GitHub stats" height="165"/>
 
-</div>
-
 <img src="./assets/divider.svg" width="100%" alt=""/>
-
-<div align="center">
 
 <h2>🛠️ Languages · Frameworks · Tools 🛠️</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,py,solidity,golang,react,nextjs,nodejs,express,tailwind,mongodb,prisma,vercel,aws,kafka,git,github&theme=dark&perline=10"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,solidity,golang,react,nextjs,nodejs,express,tailwind,mongodb,prisma,vercel,aws,kafka,git,github&theme=light&perline=10" alt="Languages, Frameworks & Tools"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,java,solidity,golang,py,react,nextjs,nodejs,express,electron,tailwind,bootstrap,mongodb,postgres,prisma,appwrite,vercel,netlify,aws,azure,gcp,kafka,git,github,postman&theme=dark&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,solidity,golang,py,react,nextjs,nodejs,express,electron,tailwind,bootstrap,mongodb,postgres,prisma,appwrite,vercel,netlify,aws,azure,gcp,kafka,git,github,postman&theme=light&perline=10" alt="Languages, Frameworks & Tools"/>
 </picture>
-
-</div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
