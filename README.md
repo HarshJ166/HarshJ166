@@ -34,5 +34,5 @@ Software engineer who likes owning things end-to-end — from a Solidity contrac
 <a href="mailto:jajalharsh268@gmail.com"><img src="https://img.shields.io/badge/-Email-1A1918?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
 <a href="https://www.linkedin.com/in/harsh-jajal-263170247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1A1918?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://leetcode.com/harsh_2608/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-1A1918?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>
-<a href="https://harsh-terminal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-1A1918?style=flat-square&logo=vercel&logoColor=D97757" /></a>
+<a href="https://harsh-jajal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-1A1918?style=flat-square&logo=vercel&logoColor=D97757" /></a>
 </p>
